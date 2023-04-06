@@ -107,7 +107,7 @@
           </tr>
         </table>
       </td>
-      <td valign="top" align="right"><img src="${inline}<@img src="mangoLogoMed.jpg"/>" alt="Logo"/></td>
+      <td valign="top" align="right"><img src="${inline}<@img src="https://cdn-gijcn.nitrocdn.com/bCQWeNyzIIOWrbCOmaEFJmjoUbJtLRIo/assets/images/optimized/rev-e94c18d/wp-content/uploads/2022/05/logo_refab-300x116.png"/>" alt="Logo"/></td>
     </tr>
   </table>
 
